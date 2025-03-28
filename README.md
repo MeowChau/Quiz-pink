@@ -110,28 +110,6 @@ src/
 5. **Track History**:
    - Go to the "Quiz History" page to view your past quiz attempts.
 
-## Screenshots
-
-### Home Page
-
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
-
-### Quiz Topics
-
-![Quiz Topics](https://via.placeholder.com/800x400?text=Quiz+Topics)
-
-### Quiz Page
-
-![Quiz Page](https://via.placeholder.com/800x400?text=Quiz+Page)
-
-### Quiz Results
-
-![Quiz Results](https://via.placeholder.com/800x400?text=Quiz+Results)
-
-### Quiz History
-
-![Quiz History](https://via.placeholder.com/800x400?text=Quiz+History)
-
 ## Future Enhancements
 
 - Add more topics and questions.
