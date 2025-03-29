@@ -10,6 +10,9 @@ QuizApp is a React-based web application that allows users to test their knowled
 - **Quiz History**: Track your quiz attempts with a history table.
 - **Responsive Design**: Works seamlessly on desktop and mobile devices.
 
+## Demo
+https://quiz-pink-topaz.vercel.app/
+
 ## Installation
 
 1. Clone the repository:
